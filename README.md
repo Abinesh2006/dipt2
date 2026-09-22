@@ -48,10 +48,10 @@ Rotate the captured video frames by 90° clockwise and display them.
 ## Program
 
 ### Developed By:
-**Name:** SANJITH
+**Name:** ABINESH M
 
 ### Register No:
-**212223230191**
+**21222404009**
 
 ---
 
